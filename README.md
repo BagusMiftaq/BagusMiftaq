@@ -15,7 +15,7 @@
 [![Instagram](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/instagram.png)](https://www.instagram.com/bagus_miftaq/) &nbsp;
 [![Facebook](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/facebook.png)](https://www.facebook.com/BagusMiftaq/) &nbsp;
 [![LinkedIn](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/linkedin.png)](https://id.linkedin.com/in/bagus-miftaq-hurohman) &nbsp;
-[![Github](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/github.png)](https://github.com/santoadji21) &nbsp;
+[![Github](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/github.png)](https://github.com/BagusMiftaq) &nbsp;
 
 ## 🚀 GitHub Stats
 
