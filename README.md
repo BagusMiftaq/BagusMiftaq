@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I'm Bagus Miftaq Hurohman  <img align="right" src="/icon/id.png">
+#I'm Bagus Miftaq Hurohman
 
 
 
